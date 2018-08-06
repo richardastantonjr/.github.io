@@ -20,7 +20,7 @@ title                    : "Site Title"
 title_separator          : "-"
 name                     : &name "Rich Stanton"
 description              : &description "Ecology for a changing world"
-url                      : https://richardastantonjr.github.io/
+url                      : https://richardastantonjr.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               :  richardastantonjr/richardastantonjr.github.io
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
